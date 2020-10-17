@@ -12,7 +12,9 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
 }
-
+.button_stuff {
+  margin-right: 15px;
+}
 a {
   color: #47b2e4;
 }
